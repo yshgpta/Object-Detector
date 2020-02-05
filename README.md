@@ -8,7 +8,7 @@ This app is used to recognize and detect objects with a definite probability per
 <b>App permissions:</b> Camera Usage and Storage Read-Write Permissions</br>
 
 ## Libraries Used
-<b>OpenCV Library345 </b>
+<b>OpenCV Library345 </b></br>
 <b>'com.github.ybq:Android-SpinKit:1.4.0'</b>
 
 ## Usage
